@@ -1,0 +1,31 @@
+<?php
+//$x = 5 /* + 15 */ + 5;
+//echo $x;
+//$host="analytics.ergointeractive.com";
+//$port=3306;
+//$socket="";
+//$user="MR_analytics_user";
+//$password="password";
+
+//$dbname="MI_data";
+
+//$con = new mysqli($host, $user, $password, $dbname, $port, $socket)
+//	or die ('Could not connect to the database server' . mysqli_connect_error());
+
+//$query = "call MR_User_profile_test('%PLAT%');"; 
+//$query = "select * from Campaigns limit 15;";
+
+//$result= mysqli_query($con,$query) or die(mysql_error());
+
+//while($row = mysqli_fetch_assoc($result)){
+//    foreach($row as $cname => $cvalue){
+//        print "$cname: $cvalue\t";
+//    }
+//    print "\r\n";
+//}
+?>
+
+// TelHap.com
+// in Sublime Text to run  Tools | Build  or cmd-B
+// https://www.youtube.com/watch?v=Cm5-89bpMec
+
